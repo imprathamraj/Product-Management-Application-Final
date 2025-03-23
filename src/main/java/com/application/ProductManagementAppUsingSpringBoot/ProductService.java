@@ -13,6 +13,7 @@ public class ProductService {
     @Autowired
     ProductDB productDB;
 //    // Adding product
+//    List<Product> products = new ArrayList<>();
 //    public void addProduct(Product product) {
 //        products.add(product);
 //        productDB.save(product);
